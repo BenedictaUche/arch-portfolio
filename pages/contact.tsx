@@ -6,13 +6,11 @@ const Contact = () => {
       {/* Vertical Line */}
       <div className="relative flex flex-col items-center mb-6">
         <div className="w-px h-16 bg-gray-300"></div>
-        {/* Section Title */}
         <h3 className="text-[#8a8989] text-lg italic font-light font-serif tracking-wide mt-2">
           04 <span className="ml-2">Contact</span>
         </h3>
       </div>
 
-      {/* Join Mailing List */}
       <h3 className="text-xl font-light mb-4">Join our mailing list</h3>
 
       {/* Mailing List Form */}
