@@ -5,7 +5,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="bg-white shadow-sm fixed px-20 z-50 w-full h-20 items-center">
+    <nav className="bg-white shadow-sm fixed px-4 sm:px-20 z-50 w-full h-20 items-center">
       <div className="max-w-7xl mx-auto sm:px-0 lg:px-0">
         <div className="flex justify-between h-16">
           {/* Logo or Name */}
