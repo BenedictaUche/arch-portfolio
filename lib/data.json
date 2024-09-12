@@ -1,0 +1,344 @@
+[
+    {
+        "id": 1,
+        "title": "3 Star hotel",
+        "imageView": "/images/hotel/hotelImgView.jpg",
+        "images" : [
+            {
+                "id": 1,
+                "image": "/images/hotel/hotelImgOne.jpg",
+                "imgTitle": "Side view",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 2,
+                "image": "/images/hotel/hotelImgTwo.jpg",
+                "imgTitle": "Close up view",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 3,
+                "image": "/images/hotel/hotelImgThree.jpg",
+                "imgTitle": "Close up windows",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 4,
+                "image": "/images/hotel/hotelImgFour.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Bathroom Renovation",
+        "imageView": "/images/bathroom/bathImgView.png",
+        "images" : [
+            {
+                "id": 1,
+                "image": "/images/bathroom/bathImgOne.jpg",
+                "imgTitle": "Side view",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 2,
+                "image": "/images/bathroom/bathImgTwo.jpg",
+                "imgTitle": "Close up view",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 3,
+                "image": "/images/bathroom/bathImgThree.jpg",
+                "imgTitle": "Close up windows",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 4,
+                "image": "/images/bathroom/bathImgFour.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 5,
+                "image": "/images/bathroom/bathImgFive.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 6,
+                "image": "/images/bathroom/bathImgSix.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Hall",
+        "imageView": "/images/hall/hallImgView.jpg",
+        "images" : [
+            {
+                "id": 1,
+                "image": "/images/hall/hallImgOne.jpg",
+                "imgTitle": "Side view",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 2,
+                "image": "/images/hall/hallImgTwo.jpg",
+                "imgTitle": "Close up view",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 3,
+                "image": "/images/hall/hallImgThree.jpg",
+                "imgTitle": "Close up windows",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 4,
+                "image": "/images/hall/hallImgFour.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 5,
+                "image": "/images/hall/hallImgFive.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "School",
+        "imageView": "/images/school/schImgView.jpg",
+        "images" : [
+            {
+                "id": 1,
+                "image": "/images/school/schImgOne.jpg",
+                "imgTitle": "Side view",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 2,
+                "image": "/images/school/schImgTwo.jpg",
+                "imgTitle": "Close up view",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 3,
+                "image": "/images/school/schImgThree.jpg",
+                "imgTitle": "Close up windows",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 4,
+                "image": "/images/school/schImgFour.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 5,
+                "image": "/images/school/schImgFive.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 6,
+                "image": "/images/school/schImgSix.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 7,
+                "image": "/images/school/schImgSeven.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 8,
+                "image": "/images/school/schImgEight.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 9,
+                "image": "/images/school/schImgNine.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Wooden Cabin",
+        "imageView": "/images/cabin/cabinImgView.jpg",
+        "images": [
+            {
+                "id": 1,
+                "image": "/images/cabin/cabinImgOne.jpg",
+                "imgTitle": "Side view",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 2,
+                "image": "/images/cabin/cabinImgTwo.jpg",
+                "imgTitle": "Close up view",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 3,
+                "image": "/images/cabin/cabinImgThree.jpg",
+                "imgTitle": "Close up windows",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 4,
+                "image": "/images/cabin/cabinImgFour.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 5,
+                "image": "/images/cabin/cabinImgFive.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 6,
+                "image": "/images/cabin/cabinImgSix.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 7,
+                "image": "/images/cabin/cabinImgSeven.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 8,
+                "image": "/images/cabin/cabinImgEight.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 9,
+                "image": "/images/cabin/cabinImgNine.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 10,
+                "image": "/images/cabin/cabinImgTen.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 11,
+                "image": "/images/cabin/cabinImgEleven.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 12,
+                "image": "/images/cabin/cabinImgTwelve.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 13,
+                "image": "/images/cabin/cabinImgThirteen.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 14,
+                "image": "/images/cabin/cabinImgFourteen.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 15,
+                "image": "/images/cabin/cabinImgFifteen.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Egg",
+        "imageView": "/images/egg/eggImgView.jpg",
+        "images": [
+            {
+                "id": 1,
+                "image": "/images/egg/eggImgOne.jpg",
+                "imgTitle": "Side view",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 2,
+                "image": "/images/egg/eggImgTwo.jpg",
+                "imgTitle": "Close up view",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 3,
+                "image": "/images/egg/eggImgThree.jpg",
+                "imgTitle": "Close up windows",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 4,
+                "image": "/images/egg/eggImgFour.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 5,
+                "image": "/images/egg/eggImgFive.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 6,
+                "image": "/images/egg/eggImgSix.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 7,
+                "image": "/images/egg/eggImgSeven.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 8,
+                "image": "/images/egg/eggImgEight.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 9,
+                "image": "/images/egg/eggImgNine.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 10,
+                "image": "/images/egg/eggImgTen.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            },
+            {
+                "id": 11,
+                "image": "/images/egg/eggImgEleven.jpg",
+                "imgTitle": "Waterfront",
+                "imgDesc": "Lorem ipsum "
+            }
+        ]
+    }
+]
